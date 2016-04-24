@@ -2,7 +2,7 @@
 
 Open hardware wearable glove
 
-// todo: add picture
+![alt First prototype](https://github.com/asadoughi/smart-glove/raw/master/first_protype.png)
 
 # Parts
 
